@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#2b9247</color>
+    <color name="green_light">#00cd66</color>
+    <color name="line">#EEE</color>
+    <color name="gray_light">#EDEBEC</color>
+    <color name="gray_dark">#989797</color>
+
     <color name="colorPrimary">#0B4290</color>
     <color name="colorPrimaryDark">#2196F3</color>
     <color name="colorAccent">#2196F3</color>
@@ -31,24 +44,13 @@
     <color name="color_E2C">#66121E2C</color>
     <color name="color_7B3">#00A7B3</color>
 
-
     <color name="backgrounGrey">#CCCCCC</color>
     <color name="textHint">#999999</color>
     <color name="colorGray">#333</color>
     <color name="windowBackground">#F5F5F5</color>
 
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="green">#2b9247</color>
-    <color name="green_light">#00cd66</color>
-    <color name="line">#EEE</color>
-    <color name="gray_light">#EDEBEC</color>
-    <color name="gray_dark">#989797</color>
-
-
+    <color name="stateNormal">#00F28E</color>
+    <color name="statePreAlarm">#FF8F17</color>
+    <color name="stateLowAlarm">#FF4847</color>
+    <color name="stateHighAlarm">#BD30E6</color>
 </resources>
